@@ -35,5 +35,3 @@ build/
 ### Local config ###
 src/main/resources/application.properties
 
-### Claude Code ###
-.claude/
